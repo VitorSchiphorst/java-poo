@@ -1,0 +1,1 @@
+Os tipos primitivos são mais rapidos e consome menos memória, já o Wrapper class são objetos e são preservadas em locais na pilha.
